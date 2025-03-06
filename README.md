@@ -1,4 +1,4 @@
-![Coding Cat](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)
+![Typing Animation](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667)
 
 ## Hi there 👋, I'm Kavya M!
 **An ardent intern excelling in plethora of opportunities out there, with a responsible and of orderly demeanor. I am currently a student pursuing information science and engineering. Also a rather zealous individual in many domains viz: Coding , programming and IT sector!**
