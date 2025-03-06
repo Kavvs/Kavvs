@@ -8,9 +8,8 @@
 - 💬 Ask me about **Python,AI,MERN Stack,Full Stack development,APIs,Software Testing alongside others inclined to my skillset!**
 - 😄 Pronouns: she/her
   
----
-### 🌐 Catch Me On
-<div style="display: flex; gap: 10px;">
+### 🌐 <img src="https://img.icons8.com/fluency/48/000000/contacts.png" alt="Catch Me On" width="30" height="30" style="vertical-align: middle;"> Catch Me On
+<div style="display: flex; gap: 10px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); padding: 15px; border-radius: 10px;">
   <a href="https://www.linkedin.com/in/kavya-m-77712b168/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
@@ -23,8 +22,9 @@
 </div>
 
 ---
-### 🛠️ My Tech Stack
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+### 🛠️ <img src="https://img.icons8.com/color/48/000000/developer.png" alt="My TechStack" width="30" height="30" style="vertical-align: middle;"> My TechStack
+<div style="display: flex; flex-wrap: wrap; gap: 10px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); padding: 15px; border-radius: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
@@ -37,10 +37,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
 </div>
-
-
 ---
 ### 🎨 Typing SVG
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+connect+and+collaborate!)
