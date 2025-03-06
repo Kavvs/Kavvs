@@ -11,16 +11,15 @@
 ### 🌐 Catch Me On
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/kavya-m-77712b168/" target="_blank">
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="https://github.com/Kavvs" target="_blank">
-    <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="mailto:kavsappu67@gmail.com" target="_blank">
-    <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </div>
----
 
 ### 🛠️ My Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
