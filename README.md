@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Kavya M!
-**An ardent intern excelling in plethora of opportunities out there, with a responsible and of orderly demeanor.I am currently a student pursuing information science and engineering. Also a rather zealous individual in many domains viz: Coding , programming and IT sector!**
+**An ardent intern excelling in plethora of opportunities out there, with a responsible and of orderly demeanor. I am currently a student pursuing information science and engineering. Also a rather zealous individual in many domains viz: Coding , programming and IT sector!**
 
 ---
 - 🔭 I’m currently working on **AI projects viz. preferably wholeset of Data Science domain**
@@ -15,9 +15,8 @@
 
 ---
 ### 🛠️ My TechStack
-#### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
