@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavvs&show_icons=true&theme=radical&include_all_commits=true&count_private=true){width="400"}
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavvs&theme=radical)
 
 ## Hi there 👋, I'm Kavya M!
 **An ardent intern excelling in plethora of opportunities out there, with a responsible and of orderly demeanor. I am currently a student pursuing information science and engineering. Also a rather zealous individual in many domains viz: Coding , programming and IT sector!**
