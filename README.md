@@ -1,4 +1,4 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavvs&theme=radical)
+![Developer Activity](https://camo.githubusercontent.com/0ccde568ad2e41473d3e9cdb363129495ace83d7ecffbf073a9fa64ee390cb00/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f636f64696e672d667265616b2e676966)
 
 ## Hi there 👋, I'm Kavya M!
 **An ardent intern excelling in plethora of opportunities out there, with a responsible and of orderly demeanor. I am currently a student pursuing information science and engineering. Also a rather zealous individual in many domains viz: Coding , programming and IT sector!**
