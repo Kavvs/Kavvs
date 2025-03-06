@@ -17,10 +17,10 @@
   <a href="https://github.com/Kavvs" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-  <a href="mailto:kavsappu67@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kavsappu67@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-</div> 
+</div>
 
 ---
 ### 🛠️ My Tech Stack
