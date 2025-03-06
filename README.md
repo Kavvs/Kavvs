@@ -1,4 +1,4 @@
-![GitHub Contribution Snake](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only){width="100%"}
+![GitHub Contribution Snake](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## Hi there 👋, I'm Kavya M!
 **An ardent intern excelling in plethora of opportunities out there, with a responsible and of orderly demeanor. I am currently a student pursuing information science and engineering. Also a rather zealous individual in many domains viz: Coding , programming and IT sector!**
